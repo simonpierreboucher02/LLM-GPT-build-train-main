@@ -1,8 +1,22 @@
 # GPT Training Implementation
 
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red.svg)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/graphs/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/network)
+[![GitHub issues](https://img.shields.io/github/issues/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/pulls)
+
 A PyTorch implementation of GPT (Generative Pre-trained Transformer) model training from scratch. This project provides a complete pipeline for building, training, and evaluating GPT models with customizable configurations.
 
 ## 🚀 Features
+
+[![Lines of Code](https://img.shields.io/tokei/lines/github/simonpierreboucher02/LLM-GPT-build-train-main)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main)
+[![Code Size](https://img.shields.io/github/languages/code-size/simonpierreboucher02/LLM-GPT-build-train-main)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main)
+[![Repo Size](https://img.shields.io/github/repo-size/simonpierreboucher02/LLM-GPT-build-train-main)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main)
+[![Last Commit](https://img.shields.io/github/last-commit/simonpierreboucher02/LLM-GPT-build-train-main)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/commits/main)
 
 - **Complete GPT Implementation**: Full implementation of the GPT architecture including:
   - Multi-head self-attention mechanism
@@ -17,6 +31,13 @@ A PyTorch implementation of GPT (Generative Pre-trained Transformer) model train
 - **GPU Support**: Automatic CUDA detection and utilization
 
 ## 📋 Requirements
+
+[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red.svg)](https://pytorch.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.19+-green.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3+-orange.svg)](https://matplotlib.org/)
+[![tqdm](https://img.shields.io/badge/tqdm-4.60+-lightgrey.svg)](https://tqdm.github.io/)
+[![tiktoken](https://img.shields.io/badge/tiktoken-0.3+-purple.svg)](https://github.com/openai/tiktoken)
 
 - Python 3.7+
 - PyTorch
@@ -101,6 +122,14 @@ The training process includes:
 - Training and validation loss tracking
 - Progress monitoring
 - Loss visualization with matplotlib
+
+## 📈 Repository Metrics
+
+[![GitHub contributors](https://img.shields.io/github/contributors/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/graphs/contributors)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/graphs/commit-activity)
+[![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/simonpierreboucher02/LLM-GPT-build-train-main/main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main/graphs/commit-activity)
+[![GitHub language count](https://img.shields.io/github/languages/count/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main)
+[![GitHub top language](https://img.shields.io/github/languages/top/simonpierreboucher02/LLM-GPT-build-train-main.svg)](https://github.com/simonpierreboucher02/LLM-GPT-build-train-main)
 
 ## 🤝 Contributing
 
